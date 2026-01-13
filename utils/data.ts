@@ -108,27 +108,27 @@ export const dataCode = `export const images = [
 
 export const images = [
   {
-    image: "https://picsum.photos/id/1018/1000/600/",
+    image: "https://i.pinimg.com/1200x/8a/62/a9/8a62a9370a9741436b2cba927957e18e.jpg",
     title: "Mountain View",
     description: "A breathtaking view of the mountains.",
   },
   {
-    image: "https://picsum.photos/id/1015/1000/600/",
+    image: "https://i.pinimg.com/1200x/b1/27/b6/b127b6d25e166249e444ae7395e3de45.jpg",
     title: "River Side",
     description: "Calm river flowing through the valley.",
   },
   {
-    image: "https://picsum.photos/id/1019/1000/600/",
+    image: "https://i.pinimg.com/1200x/0d/01/8c/0d018c4c39777b61710d8b74c46aa4fb.jpg",
     title: "Forest Path",
     description: "Journey through the dense green forest.",
   },
   {
-    image: "https://picsum.photos/id/1020/1000/600/",
+    image: "https://i.pinimg.com/1200x/3c/e1/8f/3ce18fc6d67c415833eb9f6f724b3185.jpg",
     title: "Bear in Wild",
     description: "Wild bear spotted in natural habitat.",
   },
   {
-    image: "https://picsum.photos/id/1021/1000/600/",
+    image: "https://i.pinimg.com/1200x/b1/18/8d/b1188d701c94fc88eef663384594e9ce.jpg",
     title: "Misty Morning",
     description: "Foggy morning in the woods.",
   },
