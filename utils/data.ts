@@ -1,4 +1,5 @@
 export const carouselDefault = `import { Carousel } from "react-glide-carousel";
+import 'react-glide-carousel/index.css';
 import { images } from "./data";
 
 export default function App() {
@@ -16,6 +17,7 @@ export default function App() {
 
 export const carouselBelowNavigation = `import { Carousel, ImageSlider, Progress } from "react-glide-carousel";
 import { NextIcon, PrevIcon } from "react-glide-carousel";
+import 'react-glide-carousel/index.css';
 import { images } from "./data";
 
 export default function App() {
@@ -48,6 +50,7 @@ export default function App() {
 
 export const carouselNavigationInside = `import { Carousel, Progress } from "react-glide-carousel";
 import { NextIcon, PrevIcon } from "react-glide-carousel";
+import 'react-glide-carousel/index.css';
 import { images } from "./data";
 
 export default function App() {
